@@ -1,0 +1,671 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BKoodakBold
+FamilyName:B Koodak
+StyleName:Bold
+FullName:B Koodak Bold
+MenuName:B Koodak
+StyleBits:2
+FamilyNameNative:B Koodak
+StyleNameNative:Bold
+FullNameNative:B Koodak Bold
+WritingScript:Arabic
+OutlineFileName:Y:\Marketing-DM\Mr. abdollahzadeh\Font\BKoodakBold\BKoodakBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56628
+FileModTime:1615189451
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,B Koodak Bold
+NameArray:0,Win,1,B Koodak
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:Y:\Marketing-DM\Mr. abdollahzadeh\Font\BKoodakBold\BKoodakBold.woff
+FileModTime:1615189385
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Daal-Bold
+FamilyName:Daal
+StyleName:Bold
+FullName:Daal Bold
+MenuName:Daal Bold
+StyleBits:2
+FamilyNameNative:Daal
+StyleNameNative:Bold
+FullNameNative:Daal Bold
+WritingScript:Arabic
+OutlineFileName:Y:\Marketing-DM\Mr. abdollahzadeh\Font\Daal\DaalBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:71632
+FileModTime:1615199535
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Daal Bold
+NameArray:0,Win,16,Daal
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Daal
+FamilyName:Daal
+StyleName:Regular
+FullName:Daal
+MenuName:Daal
+StyleBits:0
+FamilyNameNative:Daal
+StyleNameNative:Regular
+FullNameNative:Daal Regular
+WritingScript:Arabic
+OutlineFileName:Y:\Marketing-DM\Mr. abdollahzadeh\Font\Daal\DaalRegular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:77816
+FileModTime:1615199525
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Daal
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:Y:\Marketing-DM\Mr. abdollahzadeh\Font\IRANSansDN.zip
+FileModTime:1610349942
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Jeem
+FamilyName:Jeem
+StyleName:
+
+FullName:Jeem
+MenuName:Jeem
+StyleBits:2
+FamilyNameNative:Jeem
+StyleNameNative:
+
+FullNameNative:Jeem 
+
+WritingScript:Arabic
+OutlineFileName:Y:\Marketing-DM\Mr. abdollahzadeh\Font\Jeem\Jeem.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:43004
+FileModTime:1615199515
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Jeem
+NameArray:0,Win,1,Jeem
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Damavand-ExtraBold
+FamilyName:Damavand
+StyleName:ExtraBold
+FullName:Damavand ExtraBold
+MenuName:Damavand ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Y:\Marketing-DM\Mr. abdollahzadeh\Font\damavand\Damavand.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:137940
+FileModTime:1617712237
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Damavand ExtraBold
+NameArray:0,Win,1,Damavand ExtraBold
+NameArray:0,Win,16,Damavand
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:Y:\Marketing-DM\Mr. abdollahzadeh\Font\damavand\Damavand.woff2
+FileModTime:1617711268
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanWeb-Bold
+FamilyName:IRANYekanWeb
+StyleName:Bold
+FullName:IRANYekanWeb Bold
+MenuName:IRANYekanWeb
+StyleBits:2
+FamilyNameNative:IRANYekanWeb
+StyleNameNative:Bold
+FullNameNative:IRANYekanWeb Bold
+WritingScript:Arabic
+OutlineFileName:Y:\Marketing-DM\Mr. abdollahzadeh\Font\iran yekan\tff\IRANYekan-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60540
+FileModTime:1617712366
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,IRANYekanWeb Bold
+NameArray:0,Win,1,IRANYekanWeb
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanWeb-Light
+FamilyName:IRANYekanWeb
+StyleName:Light
+FullName:IRANYekanWeb Light
+MenuName:IRANYekanWeb Light
+StyleBits:0
+FamilyNameNative:IRANYekanWeb
+StyleNameNative:Light
+FullNameNative:IRANYekanWeb Light
+WritingScript:Arabic
+OutlineFileName:Y:\Marketing-DM\Mr. abdollahzadeh\Font\iran yekan\tff\IRANYekan-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:62468
+FileModTime:1617712365
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,IRANYekanWeb Light
+NameArray:0,Win,1,IRANYekanWeb Light
+NameArray:0,Win,16,IRANYekanWeb
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanWeb-Medium
+FamilyName:IRANYekanWeb
+StyleName:Medium
+FullName:IRANYekanWeb Medium
+MenuName:IRANYekanWeb Medium
+StyleBits:0
+FamilyNameNative:IRANYekanWeb
+StyleNameNative:Medium
+FullNameNative:IRANYekanWeb Medium
+WritingScript:Arabic
+OutlineFileName:Y:\Marketing-DM\Mr. abdollahzadeh\Font\iran yekan\tff\IRANYekan-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61036
+FileModTime:1617712329
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,IRANYekanWeb Medium
+NameArray:0,Win,1,IRANYekanWeb Medium
+NameArray:0,Win,16,IRANYekanWeb
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:Y:\Marketing-DM\Mr. abdollahzadeh\Font\iran yekan\woff\IRANYekan-Bold.woff
+FileModTime:1617711186
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:Y:\Marketing-DM\Mr. abdollahzadeh\Font\iran yekan\woff\IRANYekan-Light.woff
+FileModTime:1617711188
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:Y:\Marketing-DM\Mr. abdollahzadeh\Font\iran yekan\woff\IRANYekan-Medium.woff
+FileModTime:1617711190
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Kalameh-Bold
+FamilyName:Kalameh
+StyleName:Bold
+FullName:Kalameh Bold
+MenuName:Kalameh
+StyleBits:0
+FamilyNameNative:Kalameh
+StyleNameNative:Bold
+FullNameNative:Kalameh Bold
+WritingScript:Arabic
+OutlineFileName:Y:\Marketing-DM\Mr. abdollahzadeh\Font\kalame\Kalameh-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:134772
+FileModTime:1617712417
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Kalameh Bold
+NameArray:0,Win,1,Kalameh
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:Y:\Marketing-DM\Mr. abdollahzadeh\Font\kalame\Kalameh-Bold.woff2
+FileModTime:1617711151
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Mikhak-Medium
+FamilyName:Mikhak
+StyleName:Medium
+FullName:Mikhak Medium
+MenuName:Mikhak Medium
+StyleBits:0
+FamilyNameNative:Mikhak
+StyleNameNative:Medium
+FullNameNative:Mikhak Medium
+WritingScript:Arabic
+OutlineFileName:Y:\Marketing-DM\Mr. abdollahzadeh\Font\mikhak\Mikhak-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:95984
+FileModTime:1617712434
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Mikhak Medium
+NameArray:0,Win,1,Mikhak Medium
+NameArray:0,Win,16,Mikhak
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:Y:\Marketing-DM\Mr. abdollahzadeh\Font\mikhak\Mikhak-Medium.woff2
+FileModTime:1617711219
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Sahel-Bold
+FamilyName:Sahel
+StyleName:Bold
+FullName:Sahel Bold
+MenuName:Sahel
+StyleBits:2
+FamilyNameNative:Sahel
+StyleNameNative:Bold
+FullNameNative:Sahel Bold
+WritingScript:Arabic
+OutlineFileName:Y:\Marketing-DM\Mr. abdollahzadeh\Font\sahel\ttf\Sahel-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:74976
+FileModTime:1617712471
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Sahel Bold
+NameArray:0,Win,1,Sahel
+NameArray:0,Win,16,Sahel
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Sahel-SemiBold
+FamilyName:Sahel
+StyleName:SemiBold
+FullName:Sahel SemiBold
+MenuName:Sahel SemiBold
+StyleBits:2
+FamilyNameNative:Sahel
+StyleNameNative:SemiBold
+FullNameNative:Sahel SemiBold
+WritingScript:Arabic
+OutlineFileName:Y:\Marketing-DM\Mr. abdollahzadeh\Font\sahel\ttf\Sahel-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:74524
+FileModTime:1617712472
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Sahel SemiBold
+NameArray:0,Win,1,Sahel SemiBold
+NameArray:0,Win,16,Sahel
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Sahel
+FamilyName:Sahel
+StyleName:Regular
+FullName:Sahel
+MenuName:Sahel
+StyleBits:0
+FamilyNameNative:Sahel
+StyleNameNative:Regular
+FullNameNative:Sahel Regular
+WritingScript:Arabic
+OutlineFileName:Y:\Marketing-DM\Mr. abdollahzadeh\Font\sahel\ttf\Sahel.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:73940
+FileModTime:1617712470
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Sahel
+NameArray:0,Win,1,Sahel
+NameArray:0,Win,16,Sahel
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:Y:\Marketing-DM\Mr. abdollahzadeh\Font\sahel\woff2\Sahel-Bold.woff2
+FileModTime:1617711329
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:Y:\Marketing-DM\Mr. abdollahzadeh\Font\sahel\woff2\Sahel-SemiBold.woff2
+FileModTime:1617711331
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:Y:\Marketing-DM\Mr. abdollahzadeh\Font\sahel\woff2\Sahel.woff2
+FileModTime:1617711333
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Sarbaz-Regular
+FamilyName:Sarbaz
+StyleName:Regular
+FullName:Sarbaz
+MenuName:Sarbaz
+StyleBits:0
+FamilyNameNative:Sarbaz
+StyleNameNative:Regular
+FullNameNative:Sarbaz Regular
+WritingScript:Arabic
+OutlineFileName:Y:\Marketing-DM\Mr. abdollahzadeh\Font\sarbaz\Sarbaz.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:98892
+FileModTime:1617712531
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Sarbaz
+NameArray:0,Win,1,Sarbaz
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:Y:\Marketing-DM\Mr. abdollahzadeh\Font\sarbaz\Sarbaz.woff2
+FileModTime:1617711221
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:YekanBakh-Regular
+FamilyName:Yekan Bakh
+StyleName:Regular
+FullName:YekanBakh-Regular
+MenuName:Yekan Bakh
+StyleBits:0
+FamilyNameNative:Yekan Bakh
+StyleNameNative:Regular
+FullNameNative:Yekan Bakh Regular
+WritingScript:Arabic
+OutlineFileName:Y:\Marketing-DM\Mr. abdollahzadeh\Font\yekan bakh\tff\AnyConv.com__Yekan-Bakh-FA-04-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:51388
+FileModTime:1617712607
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,YekanBakh-Regular
+NameArray:0,Win,1,Yekan Bakh
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:YekanBakh-Medium
+FamilyName:Yekan Bakh
+StyleName:Medium
+FullName:YekanBakh-Medium
+MenuName:Yekan Bakh Medium
+StyleBits:0
+FamilyNameNative:Yekan Bakh
+StyleNameNative:Medium
+FullNameNative:Yekan Bakh Medium
+WritingScript:Arabic
+OutlineFileName:Y:\Marketing-DM\Mr. abdollahzadeh\Font\yekan bakh\tff\AnyConv.com__Yekan-Bakh-FA-05-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:51112
+FileModTime:1617712608
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,YekanBakh-Medium
+NameArray:0,Win,1,Yekan Bakh Medium
+NameArray:0,Win,16,Yekan Bakh
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:YekanBakh-Heavy
+FamilyName:Yekan Bakh
+StyleName:Heavy
+FullName:YekanBakh-Heavy
+MenuName:Yekan Bakh Heavy
+StyleBits:0
+FamilyNameNative:Yekan Bakh
+StyleNameNative:Heavy
+FullNameNative:Yekan Bakh Heavy
+WritingScript:Arabic
+OutlineFileName:Y:\Marketing-DM\Mr. abdollahzadeh\Font\yekan bakh\tff\AnyConv.com__Yekan-Bakh-FA-07-Heavy.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:50756
+FileModTime:1617712611
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,YekanBakh-Heavy
+NameArray:0,Win,1,Yekan Bakh Heavy
+NameArray:0,Win,16,Yekan Bakh
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:YekanBakh-Fat
+FamilyName:Yekan Bakh
+StyleName:Fat
+FullName:YekanBakh-Fat
+MenuName:Yekan Bakh Fat
+StyleBits:0
+FamilyNameNative:Yekan Bakh
+StyleNameNative:Fat
+FullNameNative:Yekan Bakh Fat
+WritingScript:Arabic
+OutlineFileName:Y:\Marketing-DM\Mr. abdollahzadeh\Font\yekan bakh\tff\AnyConv.com__Yekan-Bakh-FA-08-Fat.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:51428
+FileModTime:1617712612
+WeightClass:1000
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,YekanBakh-Fat
+NameArray:0,Win,1,Yekan Bakh Fat
+NameArray:0,Win,16,Yekan Bakh
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:YekanBakh-Regular
+FamilyName:Yekan Bakh
+StyleName:Regular
+FullName:YekanBakh-Regular
+MenuName:Yekan Bakh
+StyleBits:0
+FamilyNameNative:Yekan Bakh
+StyleNameNative:Regular
+FullNameNative:Yekan Bakh Regular
+WritingScript:Arabic
+OutlineFileName:Y:\Marketing-DM\Mr. abdollahzadeh\Font\yekan bakh\woff\Yekan-Bakh-FA-04-Regular.woff
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:52572
+FileModTime:1617711015
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Yekan Bakh Regular
+NameArray:0,Win,1,Yekan Bakh
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:YekanBakh-Medium
+FamilyName:Yekan Bakh
+StyleName:Medium
+FullName:YekanBakh-Medium
+MenuName:Yekan Bakh Medium
+StyleBits:0
+FamilyNameNative:Yekan Bakh
+StyleNameNative:Medium
+FullNameNative:Yekan Bakh Medium
+WritingScript:Arabic
+OutlineFileName:Y:\Marketing-DM\Mr. abdollahzadeh\Font\yekan bakh\woff\Yekan-Bakh-FA-05-Medium.woff
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:52412
+FileModTime:1617711017
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Yekan Bakh Medium
+NameArray:0,Win,1,Yekan Bakh Medium
+NameArray:0,Win,16,Yekan Bakh
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:YekanBakh-Heavy
+FamilyName:Yekan Bakh
+StyleName:Heavy
+FullName:YekanBakh-Heavy
+MenuName:Yekan Bakh Heavy
+StyleBits:0
+FamilyNameNative:Yekan Bakh
+StyleNameNative:Heavy
+FullNameNative:Yekan Bakh Heavy
+WritingScript:Arabic
+OutlineFileName:Y:\Marketing-DM\Mr. abdollahzadeh\Font\yekan bakh\woff\Yekan-Bakh-FA-07-Heavy.woff
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:52056
+FileModTime:1617711019
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Yekan Bakh Heavy
+NameArray:0,Win,1,Yekan Bakh Heavy
+NameArray:0,Win,16,Yekan Bakh
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:YekanBakh-Fat
+FamilyName:Yekan Bakh
+StyleName:Fat
+FullName:YekanBakh-Fat
+MenuName:Yekan Bakh Fat
+StyleBits:0
+FamilyNameNative:Yekan Bakh
+StyleNameNative:Fat
+FullNameNative:Yekan Bakh Fat
+WritingScript:Arabic
+OutlineFileName:Y:\Marketing-DM\Mr. abdollahzadeh\Font\yekan bakh\woff\Yekan-Bakh-FA-08-Fat.woff
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:52644
+FileModTime:1617711021
+WeightClass:1000
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Yekan Bakh Fat
+NameArray:0,Win,1,Yekan Bakh Fat
+NameArray:0,Win,16,Yekan Bakh
+%EndFont
+
